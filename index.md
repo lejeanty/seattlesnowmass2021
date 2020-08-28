@@ -1,7 +1,7 @@
 ---
-title: New Project
+title: Seattle Snowmass Summer Study 2021
 subtitle: >
-  Something really clever about your project. Be sure to update the banner image here in index.md as well.
+  US Particle Physics will meet in person from July xx-yy, 2021 in Seattle to conclude the Snowmass 2021 Process
 hero_image: https://wikitravel.org/upload/shared//6/6a/Default_Banner.jpg
 ---
 
