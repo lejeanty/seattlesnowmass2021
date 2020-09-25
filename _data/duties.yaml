@@ -1,11 +1,20 @@
 loc: Local Organizing Committee
 loc-cochair: Co-Chair of LOC
-crew: Crew Coordinator
-poster: Poster Session Co-Chair
-social-media: Social Media Coordinator
-food: Reception & Banquet Coordinator
-dei: Diversity, Equity, Inclusion Coordinator
-career: Early Career Coordinator
-public: Public Events Coordinator
-external: Lab & Industry Coordinator
-media: Media Contact
+crew-co: Crew Coordinator
+crew: Crew
+poster-co: Poster Session Co-Chair
+poster: Post Session Team
+social-media-co: Social Media Coordinator
+social-media-team: Socal Media Team
+food-co: Reception & Banquet Coordinator
+food: Reception & Banquet Team
+dei-co: Diversity, Equity, Inclusion Coordinator
+dei: Diversity, Equity, Inclusion Team
+career-co: Early Career Coordinator
+career: Early Career Team
+public-co: Public Events Coordinator
+public: Public Events Team
+external-co: Lab & Industry Coordinator
+external: Lab & Industry Team
+media-ca: Media Contact
+media: Media Team
