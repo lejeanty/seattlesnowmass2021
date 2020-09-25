@@ -1,9 +1,9 @@
 # Site Settings
 title: Seattle Snowmass 2021
 tagline: US Particle Physics will meet in person from July xx-yy, 2021 in Seattle to conclude the Snowmass 2021 Process.
-email: your-email@domain.com
+email: gwatts@uw.edu
 description: >
-  Longer description for your webpage
+  US Particle Physics will meet in person from July xx-yy, 2021 in Seattle to conclude the Snowmass 2021 Process
 # baseurl: "/bulma-clean-theme"
 # url: "https://www.csrhymes.com"
 permalink: pretty
@@ -17,11 +17,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-sass:
-  style: compressed
-  source_dir: _sass
+# sass:
+#   style: compressed
+#   source_dir: _sass
 
-#google_analytics: UA-code-here
+google_analytics: UA-179008494-1
 
 defaults:
   - scope:
