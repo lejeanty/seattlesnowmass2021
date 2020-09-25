@@ -14,5 +14,7 @@
       link: https://snowmass21.org/
 - name: About
   dropdown:
+    - name: Team
+      link: /about/team/
     - name: LOC
       link: /about/loc/
