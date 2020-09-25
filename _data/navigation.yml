@@ -1,3 +1,17 @@
+- name: indico
+  link: https://indico.fnal.gov/event/22303/
+- name: Logistics
+  dropdown:
+    - name: Lodging
+      link: /lodging/
+    - name: Travel Around Seattle
+      link: /local-travel/
+    - name: Travel To Seattle
+      link: /travel/
+- name: Links
+  dropdown:
+    - name: Snowmass Home Page
+      link: https://snowmass21.org/
 - name: About
   dropdown:
     - name: LOC

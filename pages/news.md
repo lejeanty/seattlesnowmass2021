@@ -1,16 +1,13 @@
 ---
-title: Seattle Snowmass Summer Study 2021
-subtitle: >
-  July 11-20, 2021 in Seattle (COVID Willing)
-hero_image: assets/images/uw-fountain.jpg
+permalink: /news/
+title: All Snowmass 2021 Posts
 ---
 
 <div class="mainpage-news mainpage-core">
-<h4>Recent News:</h4>
 
 <div class="container-fluid">
   <div class="news row">
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts%}
        <div class="card news" style="width: 30rem">
           <a href="{{post.url}}">
           <img class="card-img-top" src="{{post.postimage}}" alt="Card image cap">
@@ -30,7 +27,4 @@ hero_image: assets/images/uw-fountain.jpg
        </div>
     {% endfor %}
   </div>
-</div>
-
-<a href="/news">View all past news items</a>
 </div>
