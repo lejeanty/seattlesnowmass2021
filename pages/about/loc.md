@@ -10,7 +10,7 @@ Please feel free to contact anyone you feel might be able to help you.
 <br/>
 
 <div class="container-fluid">
-  <div class="row">
+  <div class="row" style="display: flex; flex-wrap: wrap">
   {% for member in site.data.orgs.loc.personnel  %}
        {% assign person = site.data.people[member] %}
        {% include standard_person_card.md %}
