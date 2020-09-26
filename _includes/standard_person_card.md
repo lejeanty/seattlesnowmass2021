@@ -1,5 +1,5 @@
 <div class="card" style="width: 12rem;">
-   <img class="card-img-top" src="{{person.photo | relative_url}}" alt="Card image cap">
+   <img class="card-img-top" src="{{person.photo | relative_url}}" style="border-width: 1px; border-style: solid; object-fit: cover; width: 100%; max-height: 6cm; min-height: 6cm" alt="Picture of {{person.name}}">
    <div class="card-body d-flex flex-column">
       <div class="card-text">
          {% if person.website and person.website != blank %}
