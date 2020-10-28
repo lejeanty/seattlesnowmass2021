@@ -5,8 +5,8 @@ email: gwatts@uw.edu
 description: >
   US Particle Physics will meet in person from July xx-yy, 2021 in Seattle to conclude the Snowmass 2021 Process
 
-baseurl: "http://seattlesnowmass2021.net"
-# url: "https://www.csrhymes.com"
+# baseurl: "http://seattlesnowmass2021.net"
+url: "http://seattlesnowmass2021.net"
 
 permalink: pretty
 
