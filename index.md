@@ -1,7 +1,7 @@
 ---
-title: Seattle Snowmass Summer Study 2021
+title: Seattle Snowmass Summer Study 2022
 subtitle: >
-  July 11-20, 2021 in Seattle (COVID Willing)
+  July 17-27, 2022 in Seattle
 hero_image: assets/images/uw-fountain.jpg
 ---
 
