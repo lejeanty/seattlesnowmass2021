@@ -9,9 +9,9 @@ hero_image: assets/images/uw-fountain.jpg
 <h4>Recent News:</h4>
 
 <div class="container-fluid">
-  <div class="news row">
+  <div class="news row" style="display: flex; flex-direction: row; flex-wrap: wrap;">
     {% for post in site.posts limit:4 %}
-       <div class="card news" style="width: 30rem">
+       <div class="card news" style="width: 30rem; margin: 3px">
           <a href="{{post.url}}">
           <img class="card-img-top" src="{{post.postimage}}" alt="Card image cap">
           </a>
