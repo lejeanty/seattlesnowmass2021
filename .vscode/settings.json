@@ -7,5 +7,6 @@
         "Tien",
         "cochair",
         "endfor"
-    ]
+    ],
+    "restructuredtext.languageServer.disabled": true
 }

@@ -8,10 +8,22 @@
       link: /local-travel/
     - name: Travel To Seattle
       link: /travel/
+    - name: Accessability
+      link: /accessability/
 - name: Links
   dropdown:
     - name: Snowmass Home Page
       link: https://snowmass21.org/
+    - name: APS DPF
+      link: https://engage.aps.org/dpf/home
+    - name: APS DAP
+      link: https://engage.aps.org/dap/home
+    - name: APS DGRAV
+      link: https://engage.aps.org/dgrav/home
+    - name: APS DNP
+      link: https://engage.aps.org/dnp/home
+    - name: APS DPB
+      link: https://engage.aps.org/dpb/home
 - name: About
   dropdown:
     - name: Team
