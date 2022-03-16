@@ -1,9 +1,9 @@
 - name: indico
   dropdown: 
     - name: Event Page
-    - link: https://indico.fnal.gov/event/22303/
+      link: https://indico.fnal.gov/event/22303/
     - name: Poster Abstracts
-    - link: https://indico.fnal.gov/event/22303/abstracts
+      link: https://indico.fnal.gov/event/22303/abstracts
 - name: Logistics
   dropdown:
     - name: Lodging
