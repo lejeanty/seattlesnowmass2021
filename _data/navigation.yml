@@ -28,6 +28,8 @@
       link: https://engage.aps.org/dnp/home
     - name: APS DPB
       link: https://engage.aps.org/dpb/home
+    - name: Outreach activities
+      link: /outreach/
 - name: About
   dropdown:
     - name: Team
