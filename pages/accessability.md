@@ -1,12 +1,14 @@
 ---
-permalink: /accessability/
-title: Accessability
+permalink: /accessibility/
+title: Accessibility
 ---
-# Accessability
-
 The information on this page is mostly prompted by queries we get - please do not hesitate to ask us to add information to this page!
 
-## Site Accessability
+## Remote Meeting Access
+
+All the formal meetings will have Zoom rooms connected accessible. We will carefully run the large rooms and make sure audio works well. Smaller rooms will have speakers available to the chairs - and they will be responsible for connecting. The larger plenary sessions and working groups will be recorded and made available for later viewing.
+
+## Site Accessibility
 
 The University of Washington Seattle campus maintains a number of resources to help people navigate the campus.
 

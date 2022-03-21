@@ -1,12 +1,13 @@
 {
     "cSpell.words": [
-        "COVID",
         "Chavarria",
+        "cochair",
+        "COVID",
+        "endfor",
+        "gitrepo",
         "Lubatti",
         "Snowmass",
-        "Tien",
-        "cochair",
-        "endfor"
+        "Tien"
     ],
     "restructuredtext.languageServer.disabled": true
 }
