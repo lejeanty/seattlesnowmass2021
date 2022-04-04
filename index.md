@@ -11,9 +11,9 @@ hero_image: assets/images/uw-fountain.jpg
 <div class="container-fluid">
   <div class="news row" style="display: flex; flex-direction: row; flex-wrap: wrap;">
     {% for post in site.posts limit:4 %}
-       <div class="card news" style="width: 30rem; margin: 3px">
+       <div class="card news" style="width: 20rem; margin: 3px">
           <a href="{{post.url}}">
-          <img class="card-img-top" src="{{post.postimage}}" alt="Card image cap">
+          <img class="card-img-top" src="{{post.postimage}}" alt="Card image cap" style="width: 18rem; display:block; margin-left: auto; margin-right: auto">
           </a>
           <div class="card-body d-flex flex-column">
             <div class="card-text card-title">
