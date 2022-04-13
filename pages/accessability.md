@@ -2,7 +2,8 @@
 permalink: /accessibility/
 title: Accessibility
 ---
-The information on this page is mostly prompted by queries we get - please do not hesitate to ask us to add information to this page!
+
+We provide accessibility features mostly based on demand. Please do not hesitate to [Contact Us](mailto:snowmass-loc2022@uw.edu).
 
 ## Remote Meeting Access
 
