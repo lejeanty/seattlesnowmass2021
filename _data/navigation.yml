@@ -1,5 +1,7 @@
 - name: Program
   dropdown: 
+    - name: Ann Nelson fest (July 14-16)
+      link: https://indico.fnal.gov/event/22915/
     - name: Scientific Program
       link: https://indico.fnal.gov/event/22303/
     - name: Poster Abstracts
@@ -20,8 +22,12 @@
       link: /local-travel/
     - name: Travel To Seattle
       link: /travel/
+    - name: Travel Award
+      link: /travelAward/
     - name: Accessibility
       link: /accessibility/
+    - name: Child Care Facilities
+      link: /childCare/
 - name: Links
   dropdown:
     - name: Snowmass Home Page
