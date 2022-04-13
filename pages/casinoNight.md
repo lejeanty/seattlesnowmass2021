@@ -3,6 +3,8 @@ permalink: /casinoNight/
 title: Casino Night
 ---
 
+## Casino Night
+
 | ![Casino Night](https://www.uwyo.edu/uw/news/_files/images/2017/08/casino-web.jpg) |
 | :---: |
 | *Casino night provides opportunities of interactions between industry partners and participants at the Snowmass workshop. (Image source: University of Wyoming)* |
