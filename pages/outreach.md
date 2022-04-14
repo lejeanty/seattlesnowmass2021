@@ -5,8 +5,7 @@ title: Outreach activities
 # Outreach activities
 
 
-Outreach events will be organised during the summer with the intent of raising awareness of the Snowmass proceedings. 
-Physicists from the workshop will be invited to join these events to engage directly with the public in small groups.
+Outreach events will be organised during the summer with the intent of raising awareness of the Snowmass proceedings and related physics topics. Physicists from the workshop are invited to join colleagues and the public for a live virtual tour of the [LIGO Hanford Observatory](https://www.ligo.caltech.edu/WA), a [Colliderscope](https://colliderscope.web.cern.ch/) performance near the UW campus, and community outreach events to engage directly with the public in small groups.
 We are planning a series of events at the Seattle [Pacific Science Center](https://www.pacificsciencecenter.org) and at selected locations of the [Seattle YMCAs](https://www.seattleymca.org/locations?type=ymca).
 
 Kids and families will engage with researchers and students of the University of Washington and learn about topics such as Dark Matter, Gravitational Waves or Cosmic Rays. During each session, we will use demonstrations and craft to illustrate the physics concepts behind these phenomenoms.
