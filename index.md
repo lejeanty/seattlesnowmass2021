@@ -1,7 +1,7 @@
 ---
 title: Seattle Snowmass Summer Study 2022
 subtitle: >
-  July 17-26, 2022 in Seattle
+  July 17-26, 2022 at the University of Washington
 hero_image: assets/images/uw-fountain.jpg
 ---
 
