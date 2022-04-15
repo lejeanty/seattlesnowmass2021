@@ -18,27 +18,27 @@ All the formal meetings will have Zoom rooms connected. We will carefully run th
 * Green (not red) laser pointers will be required and provided by the organizers for presenters' use.
  
 ## Audio/Hearing
-* Live captioning has so far been booked for all plenary sessions and for two tracks of the science program. Please fill out the survey ASAP if you require this service so we can make sure we have sufficient coverage.
-* If you need an assistive listening device, please feel out the survey ASAP so we can plan accordingly.
+* Live captioning has so far been booked for all plenary sessions and for two tracks of the science program. Please fill out [the survey](https://forms.gle/erjFnaWbWVpYXJb69) ASAP if you require this service so we can make sure we have sufficient coverage.
+* If you need an assistive listening device, please fill out [the survey](https://forms.gle/erjFnaWbWVpYXJb69) ASAP so we can plan accordingly.
  
 ## Mobility
 * All rooms and buildings will be wheelchair-accessible and furniture will be arranged to preserve this access. 
 * Meals and break stations will be arranged to make it possible to wait in line while seated. 
-* Participants can request specialized furniture in meeting rooms via the survey.
-* Due to construction, the original dorm rooms we were planning to have booked have become unavailable, and we do not have certain information about bed height in the new rooms. We will provide updated information when the new reservations are finalized. If you need a specific bed height, please request it via the survey.
-* We are looking into getting temporary disabled parking permits; if this would be useful to you, please request it via the survey.
-* Access to shuttle transportation between buildings can be requested via the survey.
+* Participants can request specialized furniture in meeting rooms via [the survey](https://forms.gle/erjFnaWbWVpYXJb69).
+* Due to construction, the original dorm rooms we were planning to have booked have become unavailable, and we do not have certain information about bed height in the new rooms. We will provide updated information when the new reservations are finalized. If you need a specific bed height, please request it via [the survey](https://forms.gle/erjFnaWbWVpYXJb69).
+* We are looking into getting temporary disabled parking permits; if this would be useful to you, please request it via [the survey](https://forms.gle/erjFnaWbWVpYXJb69).
+* Access to shuttle transportation between buildings can be requested via [the survey](https://forms.gle/erjFnaWbWVpYXJb69).
 * [Map of the Seattle campus](https://depts.washington.edu/ceogis/Public/Accessibility/Map) that includes buildings and dorms we will be using, along with elevators, stair locations, wheelchair accessibility, etc. The page takes a short time to load.
-* Walking time from the dorm rooms to Meany Hall (east side of campus) is 5 minutes (includes one set of stairs). From the dorm rooms to the HUB (west side of campus) is 10 minutes (contains two sets of stairs). All the rooms are between these two locations. The stairs on this route, between the dorms and Meany, are the equivalent of about two floors. The second set of stairs, from Meany Hall up to Red Square, are another two floors. Both sets can be avoided by adding about 3-5 minutes of walking time in each case. Both Google and Bing maps have all the walking paths on campus and can be used to navigate the campus. As the locations the conference uses are updated we will update this paragraph
+* Walking time from the dorm rooms to Meany Hall (east side of campus) is 5 minutes (includes one set of stairs). From the dorm rooms to the HUB (west side of campus) is 10 minutes (contains two sets of stairs). All the rooms are between these two locations. The stairs on this route, between the dorms and Meany, are the equivalent of about two floors. The second set of stairs, from Meany Hall up to Red Square, are another two floors. Both sets can be avoided by adding about 3-5 minutes of walking time in each case. Both Google and Bing maps have all the walking paths on campus and can be used to navigate the campus. As the locations the conference uses are updated we will update this information.
  
 ## Dietary
-Participants can request food conforming to dietary restrictions using the survey.
+Participants can request food conforming to dietary restrictions using [the survey](https://forms.gle/erjFnaWbWVpYXJb69).
  
 ## Private space
-Participants who require access to private space for breastfeeding, pumping, or medical reasons can request this via the survey.
+Participants who require access to private space for breastfeeding, pumping, or medical reasons can request this via [the survey](https://forms.gle/erjFnaWbWVpYXJb69).
  
 ## Childcare
-Organizers are assessing the demand for and feasibility of organizing group childcare. Please describe your needs via the survey if you are interested.
+Organizers are assessing the demand for and feasibility of organizing group childcare. Please describe your needs via [the survey](https://forms.gle/erjFnaWbWVpYXJb69) if you are interested.
  
 ## Mental Health
 In addition to the many spaces that will be available for formal and informal discussions, we are looking into the possibility of providing a quiet room where participants can rest without interaction.
