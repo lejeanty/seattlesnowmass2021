@@ -10,6 +10,8 @@
       link: /outreach/
     - name: Casino Night
       link: /casinoNight/
+    - name: Physics Slam
+      link: /slam/
 - name: Sponsorship and Exhibit
   dropdown:
   - name: Exhibit
