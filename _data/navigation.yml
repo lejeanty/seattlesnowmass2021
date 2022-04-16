@@ -50,5 +50,7 @@
       link: /about/team/
     - name: LOC
       link: /about/loc/
+    - name: Posters And Other Images
+      link: /assets
 - name: Code of Conduct
   link: /codeofconduct/
