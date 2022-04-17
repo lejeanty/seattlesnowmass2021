@@ -1,20 +1,20 @@
 - name: Program
   dropdown: 
-    - name: Ann Nelson fest (July 14-16)
-      link: https://indico.fnal.gov/event/22915/
     - name: Scientific Program
       link: https://indico.fnal.gov/event/22303/
     - name: Poster Abstracts
       link: https://indico.fnal.gov/event/22303/abstracts
-    - name: Outreach
-      link: /outreach/
-    - name: Casino Night
-      link: /casinoNight/
-    - name: Physics Slam
-      link: /slam/
-- name: Sponsorship and Exhibit
+    - name: Summiting the Unknown (July 14-16)
+      link: https://indico.fnal.gov/event/22915/
+- name: Events
   dropdown:
-  - name: Exhibit
+  - name: Outreach
+    link: /outreach/
+  - name: Casino Night
+    link: /casinoNight/
+  - name: Physics Slam
+    link: /slam/
+  - name: Industry Exhibit
     link: /industryExhibit/
 - name: Logistics
   dropdown:
