@@ -18,6 +18,8 @@
     link: /industryExhibit/
 - name: Logistics
   dropdown:
+    - name: Meeting Locations
+      link: /meetings/
     - name: Lodging
       link: /lodging/
     - name: Travel Around Seattle
