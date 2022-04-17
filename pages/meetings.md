@@ -7,6 +7,10 @@ The meeting will take place on the University of Washington's Seattle campus. Lo
 
 * [University of Washington Campus Map](https://www.washington.edu/maps/)
 
+The below map shows the buildings circled in red where campus meetings will occur:
+
+<img src="/assets/images/campus-building-map.png" alt="Poster" width="80%"/>
+
 ## The Meeting Buildings
 
 We will fill this in as the meeting rooms get locked down.
