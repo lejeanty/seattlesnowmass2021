@@ -18,7 +18,7 @@
     link: /industryExhibit/
 - name: Logistics
   dropdown:
-    - name: Meeting Locations
+    - name: Venue
       link: /meetings/
     - name: Lodging
       link: /lodging/
