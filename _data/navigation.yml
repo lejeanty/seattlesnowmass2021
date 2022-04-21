@@ -2,6 +2,8 @@
   dropdown: 
     - name: Scientific Program
       link: https://indico.fnal.gov/event/22303/
+    - name: Block Diagram
+      link: https://docs.google.com/spreadsheets/d/1s6idO-hcOFMDaW5hsgWv6UNlcIF3plSXjgL8bTIQYfU
     - name: Poster Abstracts
       link: https://indico.fnal.gov/event/22303/abstracts
     - name: Summiting the Unknown (July 14-16)
