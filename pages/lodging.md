@@ -7,7 +7,7 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 
 ## Dorm Rooms
 
-The primary lodging sponsored by the workshop are private dorm rooms on <a href="https://hfs.uw.edu/Campus-Living/Undergraduate-Housing/Madrona-Hall">north campus</a> within 0.4 miles from the workshop venue (7 minute walk according to [Bing Maps](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). These dorm rooms have a private bathroom, bed, desk, and excellent wifi. The price will be close to $110/night for single, and $68/night for a shared room.
+The primary lodging sponsored by the workshop are private dorm rooms on North campus within 0.4 miles from the workshop venue (7 minute walk according to [Bing Maps](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). The typical room layout is Double room, with private bath, desk, and excellent wifi. The price will be close to $110/night for single, and $68/night for a shared room.
 
 ## Near Campus Workshp Hotels
 
