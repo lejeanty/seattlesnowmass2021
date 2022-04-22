@@ -7,7 +7,7 @@ title: Child Care
 
 We are working on providing centralized access to child care facilities based on demand. Please [Contact Us](mailto:snowmass-loc2022@uw.edu) with your needs.
 
-In the meantime, some potential options are
+In the meantime, some individual potential options are
 - [University District YMCA](https://www.seattleymca.org/locations/university-family-ymca) for camps/care options
 - local daycares such as [KinderCare](https://www.kindercare.com/our-centers/seattle/wa/301786), [Bright Horizons](https://child-care-preschool.brighthorizons.com/wa/seattle/uvillage)
 - hiring a shared nanny with other attendees
