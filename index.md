@@ -34,3 +34,5 @@ hero_image: assets/images/uw-fountain.jpg
 
 <a href="/news">View all past news items</a>
 </div>
+
+We acknowledge we are on Coast Salish territory, the traditional homeland of the Duwamish, Suquamish, Tulalip, and Muckleshoot nations and other Native peoples.
