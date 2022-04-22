@@ -22,6 +22,8 @@
   dropdown:
     - name: Venue
       link: /meetings/
+    - name: Registration
+      link: /registration/
     - name: Lodging
       link: /lodging/
     - name: Travel Around Seattle
